@@ -1,0 +1,16 @@
+{
+    "id": "c6c6ff95-4189-4f88-b15a-672421d3b478",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Mohit",
+        "homepage": "https://github.com/MohitRajCode/MohitRajCode",
+        "support": "https://github.com/MohitRajCode/MohitRajCode"
+    },
+    "name": "hello-app",
+    "nameSlug": "hello-app",
+    "classFile": "HelloAppApp.ts",
+    "description": "Test app",
+    "implements": []
+}
